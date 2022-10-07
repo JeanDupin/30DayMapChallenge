@@ -2,8 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
-.Rproj
-.csv
-.gpkg
-/00-Fonds_de_carte/
+30DayMapChallenge.Rproj
+*.csv
+*.gpkg
+00-Fonds_de_carte/
 
