@@ -28,7 +28,7 @@ gares <-
       lambert_x
     )
   ) |> 
-  select(libvoie, typequ,
+  select(libvoie, typequ, dep, reg,
          lambert_x, lambert_y)
 
 

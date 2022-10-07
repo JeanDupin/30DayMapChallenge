@@ -24,6 +24,6 @@ regions <-
 ggplot() +
   geom_sf(data = regions,
           fill = NA) +
-  geom_sf(data = communes[communes$libelle == "Paris",],
+  geom_sf(data = communes,
           size = .1,
           fill = "#FFC300")
