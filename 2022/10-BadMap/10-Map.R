@@ -41,3 +41,5 @@ ggplot() +
   coord_sf(st_bbox(france)[c(1,3)],
            st_bbox(france)[c(2,4)])
 
+
+# END
