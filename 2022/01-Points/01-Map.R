@@ -51,7 +51,9 @@ ggplot() +
         plot.background = element_rect(fill = "#fdf9fb",
                                        color = "#fdf9fb"),
         panel.background = element_rect(fill = "#fdf9fb",
-                                        color = "#fdf9fb"))
+                                        color = "#fdf9fb")) +
+  coord_sf(st_bbox(france)[c(1,3)],
+           st_bbox(france)[c(2,4)])
 
 
 ggsave(here::here("2022",
@@ -157,7 +159,9 @@ ggplot() +
         plot.background = element_rect(fill = "#fdf9fb",
                                        color = "#fdf9fb"),
         panel.background = element_rect(fill = "#fdf9fb",
-                                        color = "#fdf9fb"))
+                                        color = "#fdf9fb")) +
+  coord_sf(st_bbox(france)[c(1,3)],
+           st_bbox(france)[c(2,4)])
 
 
 
