@@ -5,5 +5,10 @@ Find in this repository my visualisations for the [#30DayMapChallenge](https://3
 
 <details open><summary><b>2022 - #30DayMapChallenge</b></summary>
 
+### [Day 3 - Polygons](/2022/03-Polygones/)
+
+![polygons](/2022/03-Polygones/gares.png)
+
+----
 
 </details>
