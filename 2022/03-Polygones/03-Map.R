@@ -113,7 +113,7 @@ ggplot() +
 
 ggsave(here::here("2022",
                   "03-Polygones",
-                  "gares.svg"),
+                  "gares.png"),
        width = 21,
        height = 21,
        units = "cm")
