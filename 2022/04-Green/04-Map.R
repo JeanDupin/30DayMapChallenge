@@ -60,7 +60,7 @@ ggplot(world) +
   geom_sf(aes(fill = part_vert),
           size = .1,
           color = "#646363") +
-  scale_fill_fermenter_custom(CGI::insee.pal("Vert",0,5),
+  scale_fill_fermenter_custom(c("#8BC84A","#4BB375","#1CA459","#068043","#036237"),
                               breaks = seq(0,100,20)) +
   theme_void() +
   theme(legend.direction = "horizontal",
