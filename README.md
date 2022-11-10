@@ -17,4 +17,10 @@ Find in this repository my visualisations for the [#30DayMapChallenge](https://3
 
 ----
 
+### [Day 10 - Bad Map](/2022/10-BadMap/)
+
+![badmap](/2022/10-BadMap/communes.png)
+
+----
+
 </details>
