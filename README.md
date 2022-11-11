@@ -13,13 +13,19 @@ Find in this repository my visualisations for the [#30DayMapChallenge](https://3
 
 ### [Day 4 - Green](/2022/04-Green/)
 
-![polygons](/2022/04-Green/vert.png)
+![green](/2022/04-Green/vert.png)
 
 ----
 
 ### [Day 10 - Bad Map](/2022/10-BadMap/)
 
 ![badmap](/2022/10-BadMap/communes.png)
+
+----
+
+### [Day 11 - Red](/2022/11-Red/)
+
+![croix_rouge](/2022/11-Red/red_crosses.png/)
 
 ----
 
