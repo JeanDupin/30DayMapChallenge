@@ -7,3 +7,10 @@
 *.gpkg
 00-Fonds_de_carte/
 *.psd
+*.prj
+*.shp
+*.shx
+*.dbf
+01-Points/
+*.svg
+*.gif
