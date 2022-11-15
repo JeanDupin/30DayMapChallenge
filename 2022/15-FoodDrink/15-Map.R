@@ -83,6 +83,6 @@ ggplot() +
 
 ggsave(here::here("2022",
                   "15-FoodDrink",
-                  "carte_des_vins.png"),
+                  "carte_vins.png"),
        width = 21, height = 21, units = "cm",
        dpi = 300)
