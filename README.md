@@ -35,4 +35,10 @@ Find in this repository my visualisations for the [#30DayMapChallenge](https://3
 
 ----
 
+### [Day 15 - Food/Drink](/2022/15-FoodDrink/)
+
+![vins](/2022/15-FoodDrink/carte_des_vins.png/)
+
+----
+
 </details>
